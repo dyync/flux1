@@ -1,6 +1,9 @@
 accelerate
-git+https://github.com/huggingface/diffusers.git
+diffusers
 torch
 transformers==4.42.4
 xformers
 sentencepiece
+gradio
+numpy
+Pillow
